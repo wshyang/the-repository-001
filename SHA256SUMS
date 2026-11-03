@@ -1,0 +1,16 @@
+1b90aa7dd6149508d711893cf5fcef345eed93f9ce070999834c8efe03a3aca6  ./README.md
+da43d57b68f913c3eed26ac6b9fd41a84edd94f8f159af9d25328203bc54db7c  ./SOURCES.md
+595de1e8864fd13fa0fa85685811e04571851e3ddf207610c01328e35fe97e52  ./models/f-coref/e91dfff12879495d882ba9460d0c5d5dd44ade59/README.md
+d803978ce709649b9fc86c0a67df0c63a0427ed9bc8a87528aabf49dfa2d2925  ./models/f-coref/e91dfff12879495d882ba9460d0c5d5dd44ade59/config.json
+fe36cab26d4f4421ed725e10a2e9ddb7f799449c603a96e7f29b5a3c82a95862  ./models/f-coref/e91dfff12879495d882ba9460d0c5d5dd44ade59/merges.txt
+30ea6efe2bce49a857fe8aba41dcfe28b4147f77e3dec9f14100950bf4de1aa5  ./models/f-coref/e91dfff12879495d882ba9460d0c5d5dd44ade59/pytorch_model.bin
+378eb3bf733eb16e65792d7e3fda5b8a4631387ca04d2015199c4d4f22ae554d  ./models/f-coref/e91dfff12879495d882ba9460d0c5d5dd44ade59/special_tokens_map.json
+4b0608f76bb14eda47a3492aa22b0bdf167922aada04249816950b0993364c2a  ./models/f-coref/e91dfff12879495d882ba9460d0c5d5dd44ade59/tokenizer.json
+bb1975e5fd1f387d961e64ea6b674df48316f1de69169047eca851817e917ae1  ./models/f-coref/e91dfff12879495d882ba9460d0c5d5dd44ade59/tokenizer_config.json
+ed19656ea1707df69134c4af35c8ceda2cc9860bf2c3495026153a133670ab5e  ./models/f-coref/e91dfff12879495d882ba9460d0c5d5dd44ade59/vocab.json
+1932429db727d4bff3deed6b34cfc05df17794f4a52eeb26cf8928f7c1a0fb85  ./models/spacy/en_core_web_sm-3.8.0-py3-none-any.whl
+65efbc80fdc1fa2cd2631cad5b481777a68e8725f34e89f50fc6ac714e379b40  ./toolchains/go/go1.27.3/linux-amd64/go1.27.3.linux-amd64.tar.gz
+53f3521949404d595efb06a55c12c5658d4ed1c75566f33d3d514eaebe70bd8a  ./toolchains/rust/1.99.1/x86_64-unknown-linux-gnu/cargo-1.99.1-x86_64-unknown-linux-gnu.tar.xz
+fb152be80975c194aa5fc684b2aec3a6e14e2b855efe2faa4e5f8ae6e590f463  ./toolchains/rust/1.99.1/x86_64-unknown-linux-gnu/channel-rust-stable.toml
+109b074225bf5b9ea3820890876bfdf4ed161adbfaf94b2b4b5984c85ee5d958  ./toolchains/rust/1.99.1/x86_64-unknown-linux-gnu/rust-std-1.99.1-x86_64-unknown-linux-gnu.tar.xz
+2ff05ff9c08a90861e7f6e4065b40a8b87463b4576186fd613871c3e37f2091f  ./toolchains/rust/1.99.1/x86_64-unknown-linux-gnu/rustc-1.99.1-x86_64-unknown-linux-gnu.tar.xz
